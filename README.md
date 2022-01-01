@@ -2,4 +2,4 @@
 
 *Full Stack Developer & Course Instructor from Tbilisi / Georgia*
 
-Check out [my website](https://sandromirr.github.io), [LinkedIn](https://linkedin.com/sandromirr), and [Instagram](https://instagram.com/sandromirr)!
+Check out [my website](https://sandromirr.github.io), [@linkedin](https://linkedin.com/sandromirr), and [@instagram](https://instagram.com/sandromirr)!
